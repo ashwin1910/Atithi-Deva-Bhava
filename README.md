@@ -8,7 +8,7 @@ Starting from zero because python said so-
 
 1. Code to collect data from crunchbase [Yaha Dabay](https://github.com/ashwin1910/Crunchbase-data-code/blob/master/company_all_details) Now listen carefully, this code was not exclusively created by me but I was the major contributor. Also, this is API based collection. Believe me even after getting crunchbase API you cant collect data from that junk that easily. It took me couple of days to understand their website through JSON viewer available on chrome(A great tool for visualization). This was one of my earliest work and it took almost 11 thousands lines XD, please dont judge.
 
-2. Another collecting algorithm from ICO bench website. [Yaha Dabay](https://github.com/ashwin1910/ICO-bench/blob/master/ico%20bench%20code)
+2. Code for collecting data from ICO bench website. [Yaha Dabay](https://github.com/ashwin1910/ICO-bench/blob/master/ico%20bench%20code)
 
 3. This code can fetch you data from ICO data.io(link to website is given in code) [Yaha Dabay](https://github.com/ashwin1910/ICO.Data.IO-scarpe-codes/blob/master/code%20to%20scrape). This will give you ratings too!
 
