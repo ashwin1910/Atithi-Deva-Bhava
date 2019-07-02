@@ -1,5 +1,5 @@
 # Who am I?
-Hey man this is Ashwin Shrivastava! Dont get fooled by this page, I am not a coder and ironically I have spent most of my time in college learning programming languages and finding their application. Anyways, I have somehow mastered this thing called data extraction and ultimately ended up doing projects on the same. 
+Hey man this is Ashwin Shrivastava! Dont get fooled by this git-page, I am not a coder. Ironically I have spent most of my time in college learning programming languages and finding their application. Anyways, I have somehow mastered this thing called data extraction and ultimately ended up doing projects on the same. 
 
 ## I have done some good scraping projects. (Yeah I am good at that)
 Starting from zero because python said so-
