@@ -1,38 +1,25 @@
-# I have done some good scraping projects. (Yeah I am good at that)
-## So would you like to have some data?
+# Who am I?
+Hey man this is Ashwin Shrivastava! Dont get fooled by this page, I am not a coder and ironically I have spent most of my time in college learning programming languages and finding their application. Anyways, I have somehow mastered this thing called data extraction and ultimately ended up doing projects on the same. 
 
-You can use the [editor on GitHub](https://github.com/ashwin1910/Git_page/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## I have done some good scraping projects. (Yeah I am good at that)
+Starting from zero because python said so-
+0. ICO details from coinmarket cap - [Yaha Dabay](https://github.com/ashwin1910/ICO/blob/master/code_to_share). Man this can fetch you historical series data of over 3000 cryto from past 8 years. Quick Fact- you cant find any database on internet keeping these historical data at a centralised platform. I have created one such database during my internship at Indian School of Business. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. Code to collect data from crunchbase [Yaha Dabay](https://github.com/ashwin1910/Crunchbase-data-code/blob/master/company_all_details) Now listen carefully, this code was not exclusively created by me but I was the major contributor. Also, this is API based collection. Believe me even after getting crunchbase API you cant collect data from that junk that easily. It took me couple of days to understand their website through JSON viewer available on chrome(A great tool for visualization). This was one of my earliest work and it took almost 11 thousands lines XD, please dont judge.
 
-### Markdown
+2. Another collecting algorithm from ICO bench website. [Yaha Dabay](https://github.com/ashwin1910/ICO-bench/blob/master/ico%20bench%20code)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+3. This code can fetch you data from ICO data.io(link to website is given in code) [Yaha Dabay](https://github.com/ashwin1910/ICO.Data.IO-scarpe-codes/blob/master/code%20to%20scrape). This will give you ratings too!
+
+## _Have fun!_
+
+In case you want to know more about me-
 
 ```markdown
-Syntax highlighted code block
+Sophomore @ IIT(BHU)
+I love solving problem but not on Codechef. I mean real problems, yeah more into management than computers. In freetime I do some fun stuff with data. Data can communicate and we are the ones who will help them speak. I plan to help them(Data) in future so that my crush(management) can function smoothly. 
+That's it for now.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ashwin1910/Git_page/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Loads of other useless things yet to come! Till then dont die, Bye.
