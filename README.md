@@ -1,6 +1,6 @@
 ## Warning! Noobi codes coming up. I write messy codes, but they can do some fun and hard tasks.
 
-![That's me bitch](https://photos.google.com/u/2/photo/AF1QipPy1HQyRa1OD5DE7VG6aTFrQ81VI83cVGxaARH5)
+![That's me bitch](https://drive.google.com/file/d/1EYw_mpHLApU7bq9UdM0uU0zS-IhdhxO1/view?usp=sharing)
 You can use the [editor on GitHub](https://github.com/ashwin1910/Git_page/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
